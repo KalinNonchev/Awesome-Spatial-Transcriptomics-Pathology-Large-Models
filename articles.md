@@ -38,6 +38,8 @@
 ## Spatial Transcriptomics Models
 ### Subfield: [Multimodal]
 
+- **DeepSpot2Cell**: Predicting virtual single-cell spatial transcriptomics from H&E images using spot-level supervision. [[NeurIPS 2025 Imageomics](https://openreview.net/forum?id=ofCkwXQKaz)] [[GitHub](https://github.com/ratschlab/DeepSpot2Cell)]
+
 - **Spatial redundancy denoising transformer (SRDTrans)**: Spatial redundancy transformer for self-supervised fluorescence image denoising, offering state-of-the-art performance in denoising tasks for single-molecule localization microscopy and two-photon volumetric calcium imaging. [[Nature Computational Science, 2023](https://www.nature.com/articles/s43588-023-00568-2)]
 
 - **STAligner**: Integrating spatial transcriptomics data across different conditions, technologies, and developmental stages, enabling spatially aware data integration, spatial domain identification, and comparative analysis. [[Nature Computational Science, 2023](https://www.nature.com/articles/s43588-023-00528-w)]
